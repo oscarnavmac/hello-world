@@ -1,2 +1,4 @@
 # hello-world
-Estoy aprendiendo a usar Github
+Esto no es tan complicado, me está empezando a gustar mucho
+:)
+xD
